@@ -1,0 +1,5 @@
+git+https://github.com/unclecode/crawl4ai.git
+streamlit
+reportlab
+selenium
+webdriver-manager
